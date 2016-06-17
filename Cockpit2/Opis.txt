@@ -1,0 +1,3 @@
+Kod se kuca u Cockpit2View !!!!!!!
+I ubaci slicke iz foldera 'SLICKE UBACI NA D' kako bi mogle 
+da se ucitaju kad se pokrene program....
